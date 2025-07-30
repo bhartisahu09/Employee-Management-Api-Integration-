@@ -1,6 +1,6 @@
 # Employee Management [Api Integration]
 
-A Flutter application for managing employee data with Api Call andCRUD operations. This app allows users to view, add, edit, and delete employee information through a clean and intuitive interface.
+A Flutter application for managing employee data with Api Call and CRUD operations. This app allows users to view, add, edit, and delete employee information through a clean and intuitive interface.
 
 ## Features
 
