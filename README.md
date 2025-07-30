@@ -15,10 +15,15 @@ A Flutter application for managing employee data with Api Call andCRUD operation
 
 | Employees | Add Employee | Successfully Add Employee |
 |:---:|:---:|:---:|
-|<img src="assets/screenshots/employee.png" width="300"> | <img src="assets/screenshots/add_employee.png" width="300"> | <img src="assets/screenshots/successfully_add_employee.png" width="300"> |
-| Edit Employee | Successfully Update Employee | Delete Employee | Successfully Delete Employee |
-|:---:|:---:|:---:|:---:|
-|<img src="assets/screenshots/edit_employee.png" width="300"> | <img src="assets/screenshots/successfully_update_employee.png" | <img src="assets/screenshots/delete_employee.png" width="300"> | <img src="assets/screenshots/successfully_delete_employee.png" width="300"> |
+| <img src="assets/screenshots/employee.png" width="300"> | <img src="assets/screenshots/add_employee.png" width="300"> | <img src="assets/screenshots/successfully_add_employee.png" width="300"> |
+
+| Edit Employee | Successfully Update Employee | Delete Employee |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/edit_employee.png" width="300"> | <img src="assets/screenshots/successfully_update_employee.png" width="300"> | <img src="assets/screenshots/delete_employee.png" width="300"> |
+
+| Successfully Delete Employee |
+|:---:|
+| <img src="assets/screenshots/successfully_delete_employee.png" width="300"> |
 
 ## Technologies Used
 
