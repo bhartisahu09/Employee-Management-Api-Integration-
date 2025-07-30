@@ -11,6 +11,28 @@ A Flutter application for managing employee data with Api Call and CRUD operatio
 - **Responsive UI**: Works on various screen sizes
 - **RESTful API Integration**: Connects to a backend API for data persistence
 
+### Installation
+
+1. Clone the repository
+   ```
+   git clone https://github.com/bhartisahu09/Employee-Management-Api-Integration-
+   ```
+
+2. Navigate to the project directory
+   ```
+   cd employee_management_app
+   ```
+
+3. Install dependencies
+   ```
+   flutter pub get
+   ```
+
+4. Run the app
+   ```
+   flutter run
+   ```  
+
 ## Screenshots
 
 | Employees | Add Employee | Successfully Add Employee |
@@ -24,6 +46,13 @@ A Flutter application for managing employee data with Api Call and CRUD operatio
 | Successfully Delete Employee |
 |:---:|
 | <img src="assets/screenshots/successfully_delete_employee.png" width="300"> |
+
+## Usage
+
+1. **View Employees**: Launch the app to see the list of employees
+2. **Add Employee**: Tap the "Add Employee" button and fill in the details
+3. **Edit Employee**: Tap the edit icon next to an employee and modify their information
+4. **Delete Employee**: Tap the delete icon next to an employee to remove them
 
 ## Technologies Used
 
@@ -56,35 +85,6 @@ lib/
     └── generic_data_table.dart # Reusable table widget
 ```
 
-### Installation
-
-1. Clone the repository
-   ```
-   git clone <repository-url>
-   ```
-
-2. Navigate to the project directory
-   ```
-   cd employee_management_app
-   ```
-
-3. Install dependencies
-   ```
-   flutter pub get
-   ```
-
-4. Run the app
-   ```
-   flutter run
-   ```
-
-## Usage
-
-1. **View Employees**: Launch the app to see the list of employees
-2. **Add Employee**: Tap the "Add Employee" button and fill in the details
-3. **Edit Employee**: Tap the edit icon next to an employee and modify their information
-4. **Delete Employee**: Tap the delete icon next to an employee to remove them
-
 ## Dependencies
 
 - provider: ^6.1.5
@@ -93,12 +93,3 @@ lib/
 - flutter_svg: ^2.0.10+1
 - intl: ^0.19.0
 - shared_preferences: ^2.2.3
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgements
-
-- [ReqRes API](https://reqres.in/) for providing a free API for testing
-- Flutter team for the amazing framework
